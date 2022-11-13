@@ -12,7 +12,7 @@ Der Spendende kann zusätzlich eine Nachricht in der LNURL encodieren, die dem E
 (Zu Demo-Zwecken kann die Instanz unter https://lnbits.lavahost.org genutzt werden)
 
 ## Einrichtung
-Methode 1: Ihr folgt dem Link auf eurem iOS/iPadOS Gerät und lasst euch den Shortcut hinzufügen: https://www.icloud.com/shortcuts/e1f75440927e4c25ac903ed21a1a6d7e
+Methode 1: Ihr folgt dem Link auf eurem iOS/iPadOS Gerät und lasst euch den Shortcut hinzufügen: https://www.icloud.com/shortcuts/2d4b651d7eb34bea9f99f666c814a41f
 
 Methode 2: Ihr ladet einfach die Datei "LNURL_Tips.shortcut" aus diesem Repo herunter und öffnet diese mit der Shortcuts App auf eurem iPhone/iPad.
 
