@@ -9,7 +9,7 @@ Der Spendende kann zusätzlich eine Nachricht in der LNURL encodieren, die dem E
 ## Voraussetzungen:
 - ein Apple Gerät mit iOS/iPadOS Version 12 oder neuer.
 - eine öffentlich zugängliche LNbits Instanz mit dem LNURLw Plugin installiert. Zugriff auf Tor .onion Services ist unter iOS leider nicht möglich. 
-(Zu Demo-Zwecken kann die Instanz unter https://lnbits.lavahost.org genutzt werden)
+(am besten eine eigene LNbits Instanz nutzen, alternativ eine öffentliche wie https://legend.lnbits.com/)
 
 ## Einrichtung
 Methode 1: Ihr folgt dem Link auf eurem iOS/iPadOS Gerät und lasst euch den Shortcut hinzufügen: https://www.icloud.com/shortcuts/2d4b651d7eb34bea9f99f666c814a41f
